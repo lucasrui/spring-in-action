@@ -4,12 +4,12 @@
     <facet type="Spring" name="Spring">
       <configuration>
         <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/mvc.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/dataaccess.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/services.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/domain.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/flow.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/mvc.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/root-config.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/flow.xml</file>
         </fileset>
       </configuration>
     </facet>
